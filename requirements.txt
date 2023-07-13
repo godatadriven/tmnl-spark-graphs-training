@@ -1,0 +1,10 @@
+black==23.7.0
+ipykernel==6.19.2
+numpy==1.23.5
+pandas==2.0.3
+py4j==0.10.9.7
+seaborn==0.12.2
+tqdm==4.65.0
+torch==2.0.1
+torch-geometric==2.3.1
+graphframes==0.6
