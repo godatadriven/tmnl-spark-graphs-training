@@ -3,13 +3,13 @@ from pyspark.sql.window import Window
 from graphframes import *
 
 
-def find_common_authors(g):
-    ### EXERCISE ###
+def add_preferential_attachment(g):
+    ### EXERCISE 6A ###
     ...
 
 
-def add_preferential_attachment(g):
-    ### EXERCISE ###
+def find_common_authors(g):
+    ### EXERCISE 6B ###
     ...
 
 
