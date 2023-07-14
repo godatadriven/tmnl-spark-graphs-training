@@ -3,3 +3,4 @@ spark-3.2.3*
 data/db*
 __pycache__
 exploration.ipynb
+.~lock*

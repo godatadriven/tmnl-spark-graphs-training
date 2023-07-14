@@ -13,6 +13,6 @@ spark = (
 spark.sparkContext.setLogLevel("FATAL")
 
 # create example graph dataframe
-g = friends(spark)
+# g = friends(spark)
 print("SUCCESS!")
 spark.stop()
